@@ -139,7 +139,7 @@
         </LinearLayout>
 
 
-        //Password
+        //Pass
         <TextView
             style="@style/txtView"
             android:text="Password"/>
