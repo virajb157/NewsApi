@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuantumIT</string>
+    <string name="api_key">cba35b098cf3447cbb7e25e636343892</string>
+
+    <string name="facebook_app_id">566296965184850</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
